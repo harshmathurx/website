@@ -34,6 +34,12 @@ function Portfolio() {
                     </div>
                 </a>
 
+                <a href="https://cryptoharsh.netlify.app/" target="_blank">
+                    <div className="item" onClick="https://cryptoharsh.netlify.app/">
+                        <img src="https://raw.githubusercontent.com/harshmathurx/Crypto-App/main/crypto_1.png" alt="" />
+                        <h3>Crypto App</h3>
+                    </div>
+                </a>
 
             </div>
         </div>
